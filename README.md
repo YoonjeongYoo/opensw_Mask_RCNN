@@ -33,3 +33,5 @@
 ImportError: Could not find 'nvcuda.dll'에러가 계속 발생하는 걸로 보아 'nvcuda.dll'이 제대로 설치가 되지 않았거나 경로설정이 잘 안되있는 것으로 보임
 
 해당 부분을 해결해보려고 시도했지만 해결하지 못함
+
+실습시 사용한 파일은 master branch에 업로드 하였음
